@@ -1,4 +1,4 @@
-# SVAR
+# ANSWERS
 
 ## TASK A
 - With sleep() it uses Real: 1.001s, User: 0.000, Sys: 0.001
